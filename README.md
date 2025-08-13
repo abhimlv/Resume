@@ -1,95 +1,75 @@
-### **🧠 Abhishek Malaviya**  
-*MSc in Artificial Intelligence | Dublin City University*  
+# 🧠 Abhishek Malaviya
+*MSc in Computing (Artificial Intelligence) | Dublin City University*  
 📍 **Dublin, Ireland**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhihmlv/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=flat&logo=leetcode)](https://leetcode.com/u/abhimlv/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Coding-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/abhishekhmalavi1)  
+[![ReadyTensor](https://img.shields.io/badge/Portfolio-ReadyTensor-purple?style=flat)](https://app.readytensor.ai/users/abhishekhmalaviya)  
 
 ---
 
-### **⚙️ Technical Skills**  
-#### **💻 Programming Languages:**  
-Python, HTML, CSS, JavaScript, SQL (Basic), R  
-
-#### **🛠 Tools & Platforms:**  
-VS Code, Google Colab, Oracle SQL, Apache Studio, Jupyter Notebook, MS Office Suite  
-
-#### **🤖 AI/ML & Deep Learning:**  
-ANN, CNN, RNN, Adam Scheduler, ReLU Activation Function, StandardScaler, EarlyStopper, Reduce LR on Plateau  
-
-#### **📚 Frameworks & Libraries:**  
-Bootstrap, Tailwind CSS, NumPy, Matplotlib, Pandas, NLTK, spaCy, Scikit-learn, PyTorch, P5.js, Three.js  
-
-#### **🌐 Web Development:**  
-React JS, Node.js, REST API, JSON  
-
-#### **📊 Data Analysis & Visualization:**  
-Power BI, MS Excel, Matplotlib, Pandas  
-
-#### **🤡 Data Structures & Algorithms:**  
-Currently learning and practicing foundational and advanced concepts in Python  
+## ⚙️ Technical Skills
+**💻 Programming & Databases:** Python, SQL, R, HTML, CSS, JavaScript  
+**🛠 Tools & Platforms:** AWS (S3, EC2), Jupyter, Git, VS Code, Google Colab, Power BI, Excel  
+**🤖 AI/ML & Data Science:** Time Series Forecasting, NLP, Explainable AI (SHAP), XGBoost, LSTM, TCN, ARIMA, SMOTE, Feature Engineering, Model Deployment  
+**📚 Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, NLTK, spaCy  
+**📊 Data Analysis & Visualization:** Power BI, Matplotlib, Pandas
+**🌐 Web Development:** React.js, Node.js, REST API, JSON
+**📦 ETL & Data Pipelines:** Preprocessing, Feature Engineering, Automation  
 
 ---
 
-### **📘 Relevant Coursework**  
-✅ Data Structures and Algorithms  
-✅ Web Development & Design  
-✅ Artificial Intelligence  
-✅ Machine Learning & Deep Learning  
-✅ Frontend Development  
+## 📘 Relevant Coursework
+Data Structures & Algorithms · Machine Learning · Deep Learning · Data Analytics & Data Mining · Web Development & Design · Statistical Data Analysis  
 
 ---
 
-### **📌 Projects**  
+## 📌 Key Projects
 
-#### **📊 [Stock Market Volatility & Sector Dynamics](https://github.com/abhimlv/Stock-Market-Volatility-and-Sector-Dynamics)**  
-*Python, Power BI, Time-Series Analysis* | **November 2024**  
-- Conducted **time-series analysis** on historical stock market data to identify volatile periods and sector dynamics.  
-- Utilized **Pandas & Matplotlib** for trend analysis and visualization.  
-- Developed interactive insights using **Power BI & Jupyter Notebook**.  
+### 📊 Multimodal DJIA Forecasting – [ReadyTensor](https://app.readytensor.ai/publications/evaluation-of-stock-market-prediction-techniques-zVwmjJA8eDi3)
+*Python, NLP, SHAP, Time Series*  
+- Built a **50+ feature multimodal dataset** combining technical indicators with **sentiment & 9 behavioral intent signals** from news and Reddit.  
+- Improved t+1 forecast **R² to 0.8767** using Temporal Convolutional Networks.  
+- Applied **SHAP** to reveal Reddit-based *urgency* & *fear* as stronger predictors than OHLCV metrics.  
 
----
+### 🤖 Customer Satisfaction Prediction  
+*Python, XGBoost, SMOTE, NLP*  
+- Achieved **+12% F1-score** using SMOTE & XGBoost on 100K+ e-commerce reviews.  
+- Integrated **VADER sentiment scores** into features for better classification accuracy.  
 
-#### **🤖 [AI-Driven Options Trading Bot](https://github.com/abhimlv/AI-DOT-BOT-code)**  
-*Python, API, YFinance* | **May 2024**  
-- Developed an **automated trading bot** with AI/ML and Deep Learning algorithms.  
-- Implemented **ANN & RNN (LSTM)** and used **MACD & Bollinger Bands** for signal generation.  
-- Integrated broker API for **real-time trade execution**.  
-- Applied **Adam Scheduler, ReLU Activation, EarlyStopper, Reduce LR on Plateau** for accuracy.  
+### 📈 Stock Market Volatility & Sector Dynamics  
+*Python, Power BI*  
+- Analyzed market volume trends across 12+ sectors, creating interactive **Power BI dashboards**.  
 
----
+### ⚡ FDA Drug Marketing Category Classifier  
+*Python, XGBoost, SHAP*  
+- Classified **110K+ FDA drug records** into 13 categories with **97%+ macro AUC**.  
 
-#### **🔮 [Rick and Morty Wiki](https://github.com/abhimlv/Rick-Morty-Wiki)**  
-*React JS, Node JS, REST API, CSS, HTML* | **June 2023**  
-- Built an interactive **Rick and Morty character wiki** with **filtering & pagination**.  
-- Optimized the web app for **seamless mobile usability**.  
-
----
-
-#### **🎓 [SAKEC Alumni Management System](https://github.com/abhimlv/Alumni-Management-System)**  
-*PHP, MySQL, Apache Server, HTML* | **September 2022**  
-- Developed a **user-friendly alumni system** with Admin & Alumni login.  
-- Enabled **database management & alumni search** functionalities.  
+### 📉 AI-Driven Options Trading Bot  
+*Python, YFinance*  
+- Automated options trading using **ANN & LSTM** with MACD & Bollinger Bands for signals.  
 
 ---
 
-### **🎓 Education**  
-🎓 **MSc in Artificial Intelligence (Ongoing)**  
-📍 *Dublin City University, Ireland* | *Sept 2024 - June 2025*  
-
-🎓 **BE in Computer Engineering (CGPA: 7.95)**  
-📍 *University of Mumbai, India* | *July 2020 - May 2024*  
+## 🎓 Education
+**MSc in Computing (Artificial Intelligence)** – *Dublin City University, Ireland* (Sept 2024 – Aug 2025)  
+**B.E. in Computer Engineering** – *University of Mumbai, India* (Jan 2021 – May 2024)  
 
 ---
 
-### **👥 Leadership & Extracurricular**  
-**Co-Founder & Co-Head | SAKEC Content Creators Club** *(Winter 2022 – Spring 2024)*  
-📌 Established a **student-oriented committee** focused on social media engagement for **college events**.  
-📌 Led an **executive board**, conducted weekly meetings, and organized digital campaigns.  
+## 🏆 Achievements & Leadership
+- **Certifications:** HackerRank – SQL (Basic), Python (Basic), Problem Solving (Basic)  
+- **Co-Founder & Co-Head**, SAKEC Content Creators Club – Led digital campaigns for college events, managed a team, and scaled outreach.  
 
 ---
 
-### **💌 Connect with Me**  
+## 💼 Other Work Experience
+**Steward – Swords Security, Dublin, Ireland** *(May 2025 – Present)*  
+- Managed attendee engagement, provided directions, and resolved disputes with empathy.  
+- Demonstrated quick decision-making under high-pressure scenarios.  
+
+---
+
+## 💌 Connect with Me
 📧 Email: abhishekhmalaviya@gmail.com  
-<!-- 🌐 Portfolio: [YOUR_PORTFOLIO_LINK]  -->
