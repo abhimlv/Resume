@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhihmlv/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=flat&logo=leetcode)](https://leetcode.com/u/abhimlv/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Coding-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/abhishekhmalavi1)  
-[![ReadyTensor](https://img.shields.io/badge/Portfolio-ReadyTensor-purple?style=flat)](https://app.readytensor.ai/users/abhishekhmalaviya)  
+[![ReadyTensor](https://img.shields.io/badge/ReadyTensor-Publications-purple?style=flat)](https://app.readytensor.ai/users/abhishekhmalaviya)  
 
 ---
 
